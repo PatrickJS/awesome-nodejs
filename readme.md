@@ -198,6 +198,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [browserify](https://github.com/substack/node-browserify) - Browser-side require() the Node.js way.
 - [webpack](https://github.com/webpack/webpack) - Packs CommonJS/AMD modules for the browser.
 - [Brunch](https://github.com/brunch/brunch) - Front-end web app build tool with simple declarative config, fast incremental compilation, and an opinionated workflow.
+- [strong-build](https://github.com/strongloop/strong-build) - Build a node app package and prepare to deploy it as a package to production or use git to commit to a deploy branch.
 
 
 ### Hardware
@@ -455,6 +456,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [everyauth](https://github.com/bnoguchi/everyauth) - Authentication and authorization (password, facebook, & more) for your Connect and Express apps.
 - [passwordless](https://passwordless.net) - Token-based authentication middleware for Express allowing authentication without passwords.
 - [Lockit](https://github.com/zemirco/lockit) - Full featured authentication solution for Express. Supports a variety of databases, predefined routes, email and two-factor authentication.
+- [Grant](https://github.com/simov/grant) - OAuth middleware for Express and Koa.
 
 
 ### Node.js management
@@ -507,7 +509,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Weird
 
 - [superb](https://github.com/sindresorhus/superb) - Get superb like words.
+- [cat-names](https://github.com/sindresorhus/cat-names) - Get popular cat names.
+- [dog-names](https://github.com/sindresorhus/dog-names) - Get popular dog names.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - Get some cool ascii faces.
+- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) - ₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”
 
 
 ### Miscellaneous
